@@ -10,7 +10,7 @@ line-height: 30px;
 
 
 header{
-    background-color:#4B0082;
+    background-color:#00008B;
     text-align: center;
     padding-top: 60px;
     padding-bottom: 60px;
@@ -20,6 +20,8 @@ h1,h2{
     font-family: 'Orbitron', sans-serif;
 }
 
+/*  header styles */
+/* write your comment here */
 header h1{
     color:white;
     font-size: 75px;
@@ -35,7 +37,7 @@ header img{
 
 
 main{
-    background-color: #DC143C;
+    
     max-width: 500px;
     margin: 0;
     padding: 0 20px 20px 100px;
